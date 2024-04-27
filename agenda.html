@@ -1,0 +1,32 @@
+---
+title: Agenda
+layout: page
+data_source: agenda
+type: grid
+---
+
+<div class="grid-container">
+    <div class="grid grid--p-3">
+        {% for agenda in site.agenda %}
+        <div class="cell cell--6">
+        <div style="width: 100%; text-align: center"><span class="button button--primary button--pill" style="margin: 5px">{{ agenda.data }}</span>
+        <a href="{{ agenda.maps_link }}" class="button button--primary button--pill" style="margin: 5px">{{ agenda.location }}</a></div>
+        <div class="card" style="margin-top: 28px">
+            <a href="{{ agenda.link }}" class="card__image">
+                <img class="image" style="height: 250px; object-fit: contain" src="{{ agenda.image }}"/>
+            </a>
+            <div class="card__content">
+                <div class="card__header" style="width: 100%; text-align: center">
+                    <a href="{{ agenda.link }}"><h4>{{ agenda.title }}</h4></a>
+                </div>
+                <p>{{ agenda.brief }}</p>
+                <div style="width: 100%; text-align: center">{% for artist in agenda.lineup %}
+                <span class="button button--outline-primary button--pill" style="margin: 5px">{{ artist }}</span>
+                {% endfor %}</div>
+            </div>
+        </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+

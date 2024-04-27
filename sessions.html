@@ -1,0 +1,10 @@
+---
+title: Sessions
+layout: page
+data_source: sessions
+type: grid
+---
+
+{% for session in site.sessions %}
+<a href="{{ session.link }}">{{ session.title }}</a>
+{% endfor %}
