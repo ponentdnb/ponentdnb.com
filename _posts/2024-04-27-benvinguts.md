@@ -5,7 +5,7 @@ article_header:
   theme: dark
   type: cover
   image:
-    src: ../images/ponentdnb_linia.jpg
+    src: /images/ponentdnb_linia.jpg
 ---
 
 Us donem la benvinguda al nostre lloc web.
