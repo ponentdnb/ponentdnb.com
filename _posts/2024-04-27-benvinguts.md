@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Benvinguts a Ponent DNB
 tags: Nosaltres
 article_header:
