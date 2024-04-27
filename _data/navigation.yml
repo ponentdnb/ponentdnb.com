@@ -49,7 +49,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       tr      : &TR       Hakkında
-      ca      :           Sobre nosaltres
+      ca      :           Nosaltres
       # @end locale config
     url: /about.html
   - titles:
