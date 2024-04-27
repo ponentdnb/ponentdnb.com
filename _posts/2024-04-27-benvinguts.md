@@ -1,5 +1,6 @@
 ---
 layout: article
+key: 2024-04-27-benvinguts
 title: Benvinguts a Ponent DNB
 tags: Nosaltres
 article_header:
