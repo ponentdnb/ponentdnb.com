@@ -28,4 +28,4 @@ L'objectiu del web és el de ser un complement, un lloc on publicar informació 
 
 # Vull participar!
 
-Estarem encantats d'escoltar les vostres idees! Aneu a la [pàgina de contacte](/contact) per a fer-nos arribar les vostres propostes.
+Estarem encantats d'escoltar les vostres idees! Aneu a la pàgina de contacte per a fer-nos arribar les vostres propostes.
