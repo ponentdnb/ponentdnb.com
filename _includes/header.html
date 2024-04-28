@@ -11,7 +11,7 @@
           {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
           {%- include snippets/get-nav-url.html path=_paths_root -%}
           {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{%- include svg/logo.svg -%}</a>
+            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}"><img src="/assets/images/logo/logo.png" alt="Ponent DNB" style="width: 80px; height: auto" /></a>
           {%- endif -%}
         </div>
         {%- if site.search.provider -%}
