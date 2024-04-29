@@ -21,7 +21,7 @@ type: grid
                 </div>
                 <p>{{ agenda.brief }}</p>
                 <div style="width: 100%; text-align: center">{% for artist in agenda.lineup %}
-                <span class="button button--outline-primary button--pill" style="margin: 5px">{{ artist }}</span>
+                <a class="button button--outline-primary button--pill" style="margin: 5px" href="{{ artist.link }}">{{ artist.name }}</a>
                 {% endfor %}</div>
             </div>
         </div>
