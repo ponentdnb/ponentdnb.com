@@ -9,7 +9,7 @@ tags:
 
 <div style="width: 100%; text-align: center; display: inline-block"><a href="/images/ponent181024.jpg"><img src="/images/ponent181024.jpg" alt="Ponent DNB 18/10 - Eznix dancefloor, Kolvert Breakbeat, Hypnosis and Paulean Liquid Live Vocals, Marquii Liquid, Zephyr Deep, Neurofunk - Linia Club" style="max-width: 350px; height: auto"/></a></div>
 
-Arriba la festa amb la que celebrarem amb tots vosaltres el primer aniversari de Ponetn DNB.
+Arriba la festa amb la que celebrarem amb tots vosaltres el primer aniversari de Ponent DNB.
 
 Hem volgut que aquesta sigui una nit especial, i per això obrirem a les 21:00, de forma que us esperen més de 5 hores de
 festa amb nosaltres!
