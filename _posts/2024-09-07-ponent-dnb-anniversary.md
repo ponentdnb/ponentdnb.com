@@ -46,10 +46,7 @@ el punt més intens de la nit.
 
 ## Ballant sense parar
 
-Finalment, tancarem la nit amb la presència de [Eznix](https://instagram.com/eznix.dnb). Cofundador de DBrunch i Bass
-Room, Eznix ens oferirà la millor selecció
-de música Dancefloor del moment per a tots els gustos i que us mantindrà ballant fins que a l'hora de tancar ens vingueu
-a suplicar més festa!
+Finalment, tancarem la nit amb la presència de [WAR HANDS](https://instagram.com/warhandsmusic). Resident de La Boite i aficionat al DNB, ens oferirà una sessió per a tancar la nit amb bona música!
 
 ## A Linia Club i amb horari ampliat
 
@@ -79,4 +76,5 @@ la pista junts!
 | 22:00-23:00 | Hypnøsis & Pau.lean (Live Vocals / Liquid) |
 | 23:00-00:00 | Kolvert (Breakbeat)                        |
 | 00:00-01:00 | Zephyr (Deep / Neurofunk)                  |
-| 01:00-02:30 | Eznix (Dancefloor)                         |
+| 01:00-02:30 | WAR HANDS (Dancefloor)                     |
+| 02:00-02:30 | Freestyle All Ponent DNB                   |
