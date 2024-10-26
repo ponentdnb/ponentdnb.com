@@ -5,7 +5,7 @@ title: Marquii - Unes reflexions després de l'aniversari
 tags: Opinió
 article_header:
   theme: dark
-  type: cover
+  type: overlay
   image:
     src: /images/IMG_3731.jpg
 ---
