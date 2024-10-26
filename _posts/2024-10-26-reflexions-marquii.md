@@ -5,12 +5,12 @@ title: Marquii - Unes reflexions després de l'aniversari
 tags: Opinió
 article_header:
   theme: dark
-  type: overlay
+  type: cover
   image:
     src: /images/IMG_3731.jpg
 ---
 
-**Aquest és un article d'opinió personal, i les opininons i comentaris expressats representen exclusivament la opinió de Marquii i no una postura oficial de Ponent DNB.**
+**Aquest és un article d'opinió personal, i les opinions i comentaris expressats representen exclusivament la opinió de Marquii i no una postura oficial de Ponent DNB.**
 
 Després d'un aniversari de Ponent DNB increíble, i una situació personal especialment dura que explicaré en breus, m'he sentit en la necessitat de reflexionar i compartir una mica de les meves percepcions. Volia fer-ho en xarxes socials, però se'm quedava massa curt l'espai.
 
