@@ -7,7 +7,7 @@ type: grid
 
 {% assign sessions_by_order = site.sessions | sort: "order" | reverse %}
 {% for session in sessions_by_order %}
-<a href="{{ session.link }}"><span class="button button--outline-info button--pill button--xs" style="margin-top: 5px">{{ session.date }}</span> {{ session.title }}</a> {% for artist in session.artists %}
+<a href="{{ session.link }}"><span class="button button--outline-info button--pill button--xs" style="margin-top: 5px">{{ session.date | date "%D"}}</span> {{ session.title }}</a> {% for artist in session.artists %}
     <span class="button button--outline-primary button--pill button--xs" style="margin-top: 5px">{{ artist }}</span> {% endfor %}
 <p>{{session.summary}}</p>
 {% endfor %}
