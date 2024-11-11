@@ -1,5 +1,5 @@
 ---
-date: 18/10/24
+date: 2024-10-18
 title: Hypnøsis & Pau.lean @ Ponent DNB 1st Anniversary
 link: https://www.youtube.com/watch?v=pt6Qt0nqOBA
 summary: Sessió amb vocals en viu de Hypnøsis i Pau.lean a l'aniversari de Ponent DNB del 18/10/24.
