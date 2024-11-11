@@ -5,4 +5,5 @@ summary: Sessió amb vocals en viu de Hypnøsis i Pau.lean a l'aniversari de Pon
 artists:
   - Hypnøsis
   - Pau.lean
+order: 4
 ---
