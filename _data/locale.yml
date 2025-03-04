@@ -39,7 +39,7 @@ ca:
   FOLLOW_US               : "Seguiu-nos a [NAME]."
   EMAIL_ME                : "Envia'm un email."
   EMAIL_US                : "Envieu-nos un email."
-  COPYRIGHT_DATES         : "2024"
+  COPYRIGHT_DATES         : "2023-2025"
 
 en-GB:
   <<: *EN

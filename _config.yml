@@ -22,7 +22,7 @@ url     : https://www.ponentdnb.com/
 baseurl : /
 title   : Ponent DNB
 description: > # this means to ignore newlines until "Language & timezone"
-  Ponent DNB és una promotora d'events Drum & Bass a l'àrea de Lleida i Ponent.
+  Ponent DNB és una associació per la difusió de la música electrònica de greus (Drum & Bass, Dubstep, Breakbeat, etc.) a les terres de Ponent.
 
 
 ## => Language and Timezone
@@ -35,10 +35,10 @@ timezone: Europe/Madrid # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : team
-  name      : Ponent DNB
+  name      : Associació Cultural Ponent DNB
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : Ponent DNB és una promotora d'events Drum & Bass a l'àrea de Lleida i Ponent.
+  bio       : Ponent DNB és una associació per la difusió de la música electrònica de greus (Drum & Bass, Dubstep, Breakbeat, etc.) a les terres de Ponent.
   email     : marquii@ponentdnb.com
   facebook  : ponentdnb
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: marcsances/ponentdnb
+repository: ponentdnb/ponentdnb.com
 repository_tree: master
 
 
