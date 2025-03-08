@@ -56,11 +56,8 @@ header:
      ca: Agenda
     url: /agenda.html
   - titles:
-     ca: Sessions
-    url: /sessions.html
-  - titles:
      ca: Accés socis
-    url: https://music.ponentdnb.com/
+    url: https://socis.ponentdnb.com/
   - titles:
       ca: Contacte
     url: /contact.html
