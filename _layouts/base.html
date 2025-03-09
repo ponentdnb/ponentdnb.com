@@ -22,10 +22,10 @@ layout: none
       {%- include scripts/common.js -%}
       window.addEventListener('DOMContentLoaded',function () {
         if (window.location.hash == "#hideUI") {
-          try { document.getElementsByClassName("page__header")[0].setAttribute("style", "display:none"); } finally {}
-          try { document.getElementsByClassName("page__footer")[0].setAttribute("style", "display:none"); } finally {}
-          try { document.getElementsByClassName("article__header--cover")[0].setAttribute("style", "display:none"); } finally {}
-          try { document.getElementsByClassName("article__header")[0].setAttribute("style", "display:none"); } finally {}
+          if (document.getElementsByClassName("page__header")[0]) document.getElementsByClassName("page__header")[0].setAttribute("style", "display:none"); 
+          if (document.getElementsByClassName("page__footer")[0]) document.getElementsByClassName("page__header")[0].setAttribute("style", "display:none"); 
+          if (document.getElementsByClassName("article__header")[0]) document.getElementsByClassName("page__header")[0].setAttribute("style", "display:none"); 
+          if (document.getElementsByClassName("article__header--cover")[0]) document.getElementsByClassName("page__header")[0].setAttribute("style", "display:none"); 
         }
       });
     </script>
