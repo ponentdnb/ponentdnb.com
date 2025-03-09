@@ -13,14 +13,6 @@
     <div itemscope itemtype="{{ _site_author_itemtype }}">
       <div id="google_translate_element" class="google" style="width: 100%; left: calc(50% - 90px); right: calc(50% - 90px); position: relative; margin-bottom: 16px;"></div>
 
-      <script type="text/javascript">
-        function googleTranslateElementInit() {
-          if (window.location.hash == "#hideUI") return;
-          new google.translate.TranslateElement({pageLanguage: 'ca', includedLanguages: 'es,eu,gl,en,fr,it,pt,de', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true}, 'google_translate_element');
-        }
-      </script>
-
-      <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
       <meta itemprop="name" content="{{ _site_author.name }}">
       {%- assign _site_author_url = _site_author.url | default: '/'-%}
       {%- include snippets/get-nav-url.html path=_site_author_url -%}
