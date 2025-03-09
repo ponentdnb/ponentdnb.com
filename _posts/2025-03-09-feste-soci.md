@@ -36,7 +36,7 @@ En tot cas, i a tall orientatiu, treballem amb una estimació de **15-20€/trim
 
 El procés d'alta com a socis es fa en línia i és senzill:
 
-1. Entreu a [socis.ponentdnb.com](https://socis.ponentdnb.com) i creeu un compte. Us arribarà un enllaç al correu per a verificar el compte.
+1. Entreu a [socis.ponentdnb.com](https://socis.ponentdnb.com), feu clic a "Crear un compte" i introduïeu el vostre correu electrònic i una contrasenya. Us arribarà un enllaç al correu per a verificar el compte.
 2. Inicieu sessió amb l'enllaç, i ompliu el formulari d'alta de soci.
 3. Reviseu el document de sol·licitud d'alta que es genera, marqueu les caselles de protecció de dades que corresponguin, i signeu el document i envieu.
 4. Un cop enviats els documents, gaudireu de condició de convidat i podreu accedir a les funcionalitats per a socis de l'aplicació.
