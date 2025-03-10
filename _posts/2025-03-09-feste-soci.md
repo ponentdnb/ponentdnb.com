@@ -30,7 +30,7 @@ Hem habilitat [el portal de socis](https://socis.ponentdnb.com) i us convidem a 
 
 Per acord de la Junta Directiva (14/01/25), hem decidit establir la **gratuïtat de quotes fins a la primera Assemblea General** (que celebrarem segurament a finals d'abril). En aquesta assemblea presentarem i aprovarem els pressupostos de 2025 i el règim econòmic de l'associació.
 
-En tot cas, i a tall orientatiu, treballem amb una estimació de **15-20€/trimestre**. Aquestes quotes ens permetran fer front a les despeses de l'associació (primordialment ara mateix, administratius), i començar a generar uns excedents que poguem reinvertir en organitzar activitats i esdeveniments interessants.
+En tot cas, i a tall orientatiu, treballem amb una estimació de **15-20€/trimestre**. Aquestes quotes ens permetran fer front a les despeses de l'associació (primordialment ara mateix, administratives), i començar a generar uns excedents que poguem reinvertir en organitzar activitats i esdeveniments interessants.
 
 # D'acord, com em faig soci/sócia?
 
