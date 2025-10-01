@@ -12,8 +12,6 @@ lineup:
     link: https://instagram.com/valentinohypnosis.wav
   - name: Pau.lean
     link: https://instagram.com/paulean66.music
-  - name: Zephyr
-    link: https://instagram.com/z3phyrdnb
-  - name: Kolvert
-    link: https://instagram.com/klv1603
+  - name: Warhands
+    link: https://instagram.com/warhandsmusic
 ---
