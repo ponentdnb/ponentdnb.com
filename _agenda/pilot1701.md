@@ -3,6 +3,7 @@ title: Pilots Collective Sound System
 data: 17 gen 23h
 location: La Saleta, Albesa
 image: /images/pilots.jpeg
+link: https://www.instagram.com/p/DSYTXk6DFrp/
 maps_link: https://maps.app.goo.gl/cWRm1SLsJrB5X4M29?g_st=ic
 brief: "
 🔥ESTRENEM L'ANY I ESTRENEM EL SOUND🔥
