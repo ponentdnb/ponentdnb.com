@@ -19,3 +19,26 @@ Necessitem mans! Ponent DNB és un projecte associatiu obert a tothom que vulgui
 * **Promoció per a artistes:** Volem fer difusió i promoció de la feina de DJs i productors de bass music locals, i per això posem a la vostra disposició les nostres xarxes socials per a fer promoció dels vostres projectes.
 * **Vine amb nosaltres:** Als nostres grups fem difusió d'esdeveniments DNB arreu del territori i organitzem viatges per als socis interessants en participar.
 * **Molts més avantatges aviat!**
+
+# Quines són les quotes
+
+Les quotes de 2026 són les següents:
+
+* Quota general: 15€ al semestre
+* Quota reduïda (menors de 18 anys i majors de 65 anys): 5€ al semestre
+* Quota gratuïta (socis d'entitats en defensa de la música electrònica, aturats, persones amb discapacitat i altres col·lectius vulnerables): 0€
+
+# Com em puc fer soci?
+
+El procés és senzill:
+
+1. Accedeix a [socis.ponentdnb.com](https://socis.ponentdnb.com).
+2. Fes clic a "crear un compte". Introdueix una adreça de correu personal i una contrasenya, amb la que accediràs al portal de socis. Verifica el correu i entra al portal de socis.
+3. Omple el formulari d'alta que trobaràs al portal de socis i signa la sol·licitud.
+4. De forma immediata gaudiràs de condició de soci provisional. En els següents dies et contactarem per correu per a formalitzar l'alta i pagar la quota de soci o sol·licitar la quota gratuïta si s'escau. Un cop validem la teva sol·licitud i l'aprovem en junta passaràs a ser soci de ple dret.
+
+# Tinc dubtes encara...
+
+Pots consultar-nos a info@ponentdnb.com tots els dubtes que tinguis i et respondrem amb molt de gust.
+
+Gràcies per col·laborar en el nostre projecte!
