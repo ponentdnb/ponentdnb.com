@@ -56,6 +56,9 @@ header:
      ca: Agenda
     url: /agenda.html
   - titles:
+     ca: Fes-te soci
+    url: /festesoci.html 
+  - titles:
      ca: Accés socis
     url: https://socis.ponentdnb.com/
   - titles:
