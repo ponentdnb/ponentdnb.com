@@ -3,6 +3,7 @@ title: Pilots Collective Sound System
 data: 23 jun 23h
 location: Camp de futbol municipal d'Albesa
 image: /images/pilots.jpg
+link: https://www.instagram.com/p/DX4ofcJjFOP/
 maps_link: https://maps.app.goo.gl/gv9T8rjfwBuMcmHM7
 brief: "
 🔥ANEM A CREMAR LA PISTA🔥
