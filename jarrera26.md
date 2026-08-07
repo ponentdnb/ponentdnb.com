@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://i.imgur.com/bhi0Ys9.jpeg" width="300" alt="Jarrera Weekender 2026" />
+<img src="https://i.imgur.com/bhi0Ys9.jpeg" width="300" alt="Jarrera Weekender 2026" /><br/>
 Vine amb nosaltres a Jarrera Weekender 2026!
 
 Volem fer una excursió de grup a un dels esdeveniments més importants de la escena nacional del DNB. Serà també una oportunitat de fer pinya entre els fans del DNB de Ponent i fer activitats de grup!
